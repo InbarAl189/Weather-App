@@ -1,0 +1,14 @@
+{
+  "welcome": {
+    "currentLocation": "Current location",
+    "myLocations": "My locations",
+    "retry": "Retry"
+  },
+  "myLocations": {
+    "searchLocation": "Search location... ",
+    "noResults": "There are no results for your search..."
+  },
+  "location": {
+    "addLocation": "Add to my locations"
+  }
+}
