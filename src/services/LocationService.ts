@@ -11,8 +11,7 @@ export const getCurrentLocation = () => new Promise<GeolocationResponse>(async (
   Geolocation.getCurrentPosition(
     (res) => { resolve(res); },
     (error) => {
-      const x = error;
-      debugger;
+      console.log(error);
       reject(new Error(error.message));
     }
   );
