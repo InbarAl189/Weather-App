@@ -2,6 +2,7 @@
 ## React Native weather application using React Native CLI.
 
 The app presents weather data of locations around the world. <br>
+
 The user can: <br>
 - Search for locations and add them to "my locations" list.
 - Display selected location on map. 
