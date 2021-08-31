@@ -9,7 +9,8 @@ Technologies I used:
 - Redux & Redux-thunk
 - AccuWeather Locations third-party API. 
 
-**Screenshots:** <br>
+**Screenshots:** <br> 
+<br>
 [![IMG-2601.png](https://i.postimg.cc/x8HPczRK/IMG-2601.png)](https://postimg.cc/H8YMNjFx)
 [IMG-2602.png](https://postimg.cc/xkLbTK28)
 [![IMG-2603.png](https://i.postimg.cc/wTXVzD3z/IMG-2603.png)](https://postimg.cc/RN0fQ6cp)
