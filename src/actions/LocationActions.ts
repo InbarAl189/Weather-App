@@ -16,8 +16,7 @@ export const onGetCurrentLocationWeatherData = (isRetry?: boolean) => async (dis
     const weatherData = await getLocationWeatherData(latitude, longitude);
     dispatch({ type: GET_CURRENT_LOCATION_WEATHER_DATA, payload: { latitude, longitude, weatherData } });
   } catch (e) {
-    const x = e;
-    debugger;
+    console.log(e);
     Alert.alert('Something went wrong...\nPlease try again.');
     dispatch({ type: RETRY_CONNECTION });
   }
